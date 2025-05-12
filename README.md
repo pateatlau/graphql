@@ -8,3 +8,4 @@
 ## References
 
 1. GraphQL using Node + Express: https://www.youtube.com/watch?v=Dr2dDWzThK8
+2. GraphQL & Apollo Client with React: https://www.youtube.com/watch?v=YyUWW04HwKY
