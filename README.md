@@ -7,4 +7,4 @@
 
 ## References
 
-1. [https://www.youtube.com/watch?v=Dr2dDWzThK8] (https://www.youtube.com/watch?v=Dr2dDWzThK8)
+1. GraphQL using Node + Express: https://www.youtube.com/watch?v=Dr2dDWzThK8
