@@ -10,7 +10,7 @@
     "preview": "vite preview --port 2026"
   },
   "dependencies": {
-    "@apollo/client": "^3.3.6",
+    "@apollo/client": "^3.13.8",
     "graphql": "15.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
